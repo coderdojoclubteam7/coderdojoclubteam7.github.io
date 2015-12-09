@@ -1,0 +1,19 @@
+ h1 {
+    color: #00ff00;
+}
+ p {
+    color: #660066;
+}
+/* This  my external style sheet */
+.denis{
+		border: 5px solid red;
+}
+.no.2{
+	height: 200;
+	width: 200;
+}
+.doge {
+	 margin-left: auto;
+	 margin-right: auto;
+	 display: block"
+}
